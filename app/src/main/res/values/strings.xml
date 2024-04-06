@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentExercise</string>
+    <string name="hello">Hello!</string>
+    <string name="singer_text">singer</string>
+    <string name="songs_text">song</string>
+    <string name="return_button_text">Back</string>
+</resources>
